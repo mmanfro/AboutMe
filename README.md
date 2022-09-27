@@ -1,12 +1,6 @@
 # Hey there 😄🤘🏻
 <a href="https://app.daily.dev/mmanfro">
-    <img
-        align="right"
-        src="https://api.daily.dev/devcards/fb7d57eb3cdd4ffcaa95c9c477f0939f.png?r=qx5"
-        width="325"
-        height=""
-        alt="Maurício Manfro's Dev Card"
-    />
+    <img align="right" src="https://raw.githubusercontent.com/mmanfro/AboutMe/main/devcard.svg" width="300" alt="Mauricio Manfro's Dev Card"/>
 </a>
 <a
     href="https://br.linkedin.com/in/mauriciomanfro?trk=profile-badge"
