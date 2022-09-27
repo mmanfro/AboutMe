@@ -37,93 +37,95 @@
         alt="Steam"
 /></a>
 <hr />
-<img
-    src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"
-    alt="Python"
-    width="200"
-/>
-<img
-    src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"
-    alt="Django"
-    width="200"
-/>
-<img
-    src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"
-    alt="Go (Golang)"
-    width="100"
-/>
-<img
-    src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"
-    alt="Angular"
-/>
-<img
-    src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
-    alt="TypeScript"
-/>
-<img
-    src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
-    alt="JavaScript"
-/>
-<img
-    src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
-    alt="HTML5"
-/>
-<img
-    src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
-    alt="CSS3"
-/>
-<img
-    src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"
-    alt="Bootstrap"
-/>
-<img
-    src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"
-    alt="JSON"
-/>
-<img
-    src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"
-    alt="PostgreSQL"
-/>
-<img
-    src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"
-    alt="SQLite"
-/>
-<img
-    src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
-    alt="MongoDB"
-/>
-<img
-    src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"
-    alt="Nginx"
-/>
-<img
-    src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"
-    alt="AWS"
-    width="200"
-/>
-<img
-    src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white"
-    alt="Salesforce"
-    width="150"
-/>
-<img
-    src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"
-    alt="Jira"
-/>
-<img
-    src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"
-    alt="VSCode"
-    width="300"
-/>
-<img
-    src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"
-    alt="Windows"
-/>
-<img
-    src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"
-    alt="Debian"
-/>
-<img
-    src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"
-    alt="Android"
-/>
+<a href="">
+    <img
+        src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"
+        alt="Python"
+        width="200"
+    />
+    <img
+        src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"
+        alt="Django"
+        width="200"
+    />
+    <img
+        src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"
+        alt="Go (Golang)"
+        width="100"
+    />
+    <img
+        src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"
+        alt="Angular"
+    />
+    <img
+        src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
+        alt="TypeScript"
+    />
+    <img
+        src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
+        alt="JavaScript"
+    />
+    <img
+        src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
+        alt="HTML5"
+    />
+    <img
+        src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
+        alt="CSS3"
+    />
+    <img
+        src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"
+        alt="Bootstrap"
+    />
+    <img
+        src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"
+        alt="JSON"
+    />
+    <img
+        src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"
+        alt="PostgreSQL"
+    />
+    <img
+        src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"
+        alt="SQLite"
+    />
+    <img
+        src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
+        alt="MongoDB"
+    />
+    <img
+        src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"
+        alt="Nginx"
+    />
+    <img
+        src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"
+        alt="AWS"
+        width="200"
+    />
+    <img
+        src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white"
+        alt="Salesforce"
+        width="150"
+    />
+    <img
+        src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"
+        alt="Jira"
+    />
+    <img
+        src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"
+        alt="VSCode"
+        width="300"
+    />
+    <img
+        src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"
+        alt="Windows"
+    />
+    <img
+        src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"
+        alt="Debian"
+    />
+    <img
+        src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"
+        alt="Android"
+    />
+</a>
