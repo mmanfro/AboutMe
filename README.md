@@ -37,7 +37,7 @@
         alt="Steam"
 /></a>
 <hr />
-<a href="#">
+<a href="https://github.com/mmanfro/AboutMe/">
     <img
         src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"
         alt="Python"
