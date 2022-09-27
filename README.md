@@ -3,7 +3,7 @@
     <img
         align="right"
         src="https://api.daily.dev/devcards/fb7d57eb3cdd4ffcaa95c9c477f0939f.png?r=qx5"
-        width="350"
+        width="325"
         height=""
         alt="Maurício Manfro's Dev Card"
     />
