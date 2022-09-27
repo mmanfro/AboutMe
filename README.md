@@ -1,4 +1,4 @@
-# Hey there 😄🤘🏻
+# Hey there 🤘🏻
 <a href="https://app.daily.dev/mmanfro">
     <img align="right" src="https://raw.githubusercontent.com/mmanfro/AboutMe/main/devcard.svg" width="300" alt="Mauricio Manfro's Dev Card"/>
 </a>
