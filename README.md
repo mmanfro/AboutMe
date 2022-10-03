@@ -96,14 +96,22 @@
 </picture>
 <picture>
     <img
+        src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"
+        alt="MySQL"
+    />
+</picture>
+<picture>
+    <img
         src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"
         alt="PostgreSQL"
+        width="175"
     />
 </picture>
 <picture>
     <img
         src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"
         alt="SQLite"
+        width="125"
     />
 </picture>
 <picture>
@@ -149,6 +157,7 @@
     <img
         src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"
         alt="Windows"
+        width="150"
     />
 </picture>
 <picture>
