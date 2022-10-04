@@ -172,3 +172,11 @@
         alt="Android"
     />
 </picture>
+<hr />
+<picture>
+    <img
+        src="https://bl3302files.storage.live.com/y4m_rrwVP655JaWk2qdfZneoFF_u7WDIZWS9jLkP-02_sHNPubJfoBTdJF_NNtPEaxBJm-2HRVH8IcoLTGfmSlVUR4no2ZzEMWDWUNbh0WdLxYTSqhwAR7rKFCe7QfgcFBZ9P6445uSkpk6EpxeRvVHzvxuUlsTPcqo6LGmoNtKf3CUg1x8hNoPfCDjbgtbaX9u?encodeFailures=1&width=600&height=600"
+        alt="AWS Certified Cloud Practitioner Badge"
+        width="120"
+    />
+</picture>
