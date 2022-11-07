@@ -169,7 +169,7 @@
 <hr />
 <picture>
     <img
-        src="https://bl3302files.storage.live.com/y4m_rrwVP655JaWk2qdfZneoFF_u7WDIZWS9jLkP-02_sHNPubJfoBTdJF_NNtPEaxBJm-2HRVH8IcoLTGfmSlVUR4no2ZzEMWDWUNbh0WdLxYTSqhwAR7rKFCe7QfgcFBZ9P6445uSkpk6EpxeRvVHzvxuUlsTPcqo6LGmoNtKf3CUg1x8hNoPfCDjbgtbaX9u?encodeFailures=1&width=600&height=600"
+        src="https://bl3302files.storage.live.com/y4mr4Ae3g4DKietL3wPS2R-4ncQznBC5AvfXbuJ2mCNsrIWsBv8nk6qS-jfzYcNs10NeIDor1DlcQN7Jx9EcSy_pBUejC3T-_DiImQB7JKicNIk7cp9toI57Uj1YfxF1OWrMX3GSJRz_xSyZsIN33S5MrH0cgtkGbMfENsIz9aqzbqYWdwEXgce6GhfPOOoiBIti-8cMsie_rKXETz-hrv1co-3cyPeWBxN8gFl9DEFuyE?encodeFailures=1&width=600&height=600"
         alt="AWS Certified Cloud Practitioner Badge"
         width="120"
     />
