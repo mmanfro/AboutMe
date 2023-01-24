@@ -12,26 +12,6 @@
         src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         alt="LinkedIn"
 /></a>
-<a href="https://www.reddit.com/user/manfrowar" target="_blank"
-    ><img
-        align="top"
-        src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"
-        alt="Reddit"
-/></a>
-<a
-    href="https://open.spotify.com/user/12160296631?si=7987c78bc3f94855"
-    target="_blank"
-    ><img
-        align="top"
-        src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"
-        alt="Spotify"
-/></a>
-<a href="https://steamcommunity.com/id/manfrowar/" target="_blank"
-    ><img
-        align="top"
-        src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"
-        alt="Steam"
-/></a>
 <hr />
 <picture>
     <img
